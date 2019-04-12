@@ -5,9 +5,9 @@ The first version of a movie app, that allows an user to check which movies are 
 
 Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
 
-![Now Playing](https://i.imgur.com/Lu9V0e1.png) ![Home](https://i.imgur.com/OBDmpRX.png) ![Search](https://i.imgur.com/91CvixX.png) 
+![Now Playing](https://i.imgur.com/Lu9V0e1.png) ![Home](https://i.imgur.com/OBDmpRX.png) ![Search](https://i.imgur.com/91CvixX.png) ![Details](https://i.imgur.com/5xqLCLh.png)
 
 
-![Details](https://i.imgur.com/5xqLCLh.png)
+
 
 
