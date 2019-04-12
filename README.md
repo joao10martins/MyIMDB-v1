@@ -8,3 +8,5 @@ Minor bug-fixes required, altough main functionatilies of the app are still pres
 ![Home](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/home_screen.png) 
 ![Search](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/search_screen.png) 
 ![Details](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/details_screen.png)
+
+<img src="https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/now_playing_screen.png" />
