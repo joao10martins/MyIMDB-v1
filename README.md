@@ -5,7 +5,9 @@ The first version of a movie app, that allows an user to check which movies are 
 
 Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
 
+<p align="center">
 ![](https://i.imgur.com/44rcSOa.png)
+</p>  
 
 
 
