@@ -4,4 +4,4 @@ The first version of a movie app, that allows an user to check which movies are 
 
 Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
 
-![Now Playing](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/now_playing_screen.png?raw=true) ![Home](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/home_screen.png?raw=true) ![Search](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/search_screen.png?raw=true) ![Details](https://github.com/joao10martins/MyIMDB-v1/blob/master/screens/details_screen.png?raw=true)
+![Now Playing](github.com/joao10martins/MyIMDB-v1/blob/master/screens/now_playing_screen.png?raw=true) ![Home](github.com/joao10martins/MyIMDB-v1/blob/master/screens/home_screen.png?raw=true) ![Search](github.com/joao10martins/MyIMDB-v1/blob/master/screens/search_screen.png?raw=true) ![Details](github.com/joao10martins/MyIMDB-v1/blob/master/screens/details_screen.png?raw=true)
