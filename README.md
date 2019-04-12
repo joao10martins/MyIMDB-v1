@@ -9,6 +9,8 @@ The first version of a movie app, that allows an user to check which movies are 
 * **Search:** Allows the user to search for a specific movie and see the details of a selected movie.
 * **Details:** Bring up a detailed screen of a certain movie, showing it's information.
 
+![](https://i.imgur.com/44rcSOa.png)
+
 ## Documentation
 
 The API reference is located at [https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api).
@@ -23,7 +25,6 @@ Feel free to message me!
 
 Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
 
-![](https://i.imgur.com/44rcSOa.png)
  
 
 
