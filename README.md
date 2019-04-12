@@ -24,8 +24,6 @@ The API reference is located at [https://www.themoviedb.org/documentation/api](h
 Feel free to message me!
 
 
-Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
-
  
 
 
