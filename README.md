@@ -5,7 +5,7 @@ The first version of a movie app, that allows an user to check which movies are 
 
 Minor bug-fixes required, altough main functionatilies of the app are still present and functioning.
 
-![Now Playing](screens/now_playing_screen.png) 
+![Now Playing](https://raw.githubusercontent.com/joao10martins/MyIMDB-v1/blob/master/screens/now_playing_screen.png) 
 ![Home](screens/home_screen.png) 
 ![Search](screens/search_screen.png) 
 ![Details](screens/details_screen.png)
